@@ -5,7 +5,7 @@
 
 
 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif" border="0" alt="animated-line-image-0446" /></a>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0313.gif" border="0" alt="animated-line-image-0313" /></a>
 
 
 </p>
@@ -29,7 +29,7 @@
 </p>
 
 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif" border="0" alt="animated-line-image-0446" /></a> 
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0313.gif" border="0" alt="animated-line-image-0313" /></a>
 <p align="center">
   
   <strong>More about me:</strong><br>
