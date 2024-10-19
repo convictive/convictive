@@ -1,7 +1,6 @@
 
 
-![4ksgiuqaqj6a1](https://pic.swat.wiki/pic/ea6a77db6b13aa4be54ef3a2c4594b0ec8b81268ad1e38ae6406e4b0d504d28f.gif) /></p>
-<p align="center">
+![4ksgiuqaqj6a1](https://pic.swat.wiki/pic/ea6a77db6b13aa4be54ef3a2c4594b0ec8b81268ad1e38ae6406e4b0d504d28f.gif)
 
 
 
