@@ -31,14 +31,5 @@
   <strong>More about me:</strong><br>
 Visit oathnet:(https://oathnet.ru/) </p>
 
-### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=convictive-01&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=convictive-01&theme=radical" alt="GitHub Streak" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=convictive-01&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-</p>
 
