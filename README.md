@@ -1,6 +1,11 @@
 
+<p clear="both">
 
-![4ksgiuqaqj6a1](https://pic.swat.wiki/pic/ea6a77db6b13aa4be54ef3a2c4594b0ec8b81268ad1e38ae6406e4b0d504d28f.gif)
+<div align="center">
+  <img height="400" src="https://cdn.discordapp.com/attachments/1296841196412342346/1297242926287421502/149713e653295b43a22cb013f8b02397.gif?ex=6715371f&is=6713e59f&hm=e6fed6b05d9d6637b92a4467fc8be2b5d0475a249bf61a1b370d5cfdd8f425fb&"  />
+</p>
+
+
 
 
 
@@ -43,9 +48,7 @@ Visit oathnet:(https://oathnet.ru/) </p>
 
 <p clear="both">
 
-<div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1296841196412342346/1297242926287421502/149713e653295b43a22cb013f8b02397.gif?ex=6715371f&is=6713e59f&hm=e6fed6b05d9d6637b92a4467fc8be2b5d0475a249bf61a1b370d5cfdd8f425fb&"  />
-</p>
+
 
 
 
