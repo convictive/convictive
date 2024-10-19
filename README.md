@@ -1,55 +1,9 @@
-
-
 ![4ksgiuqaqj6a1](https://github.com/user-attachments/assets/8969299a-a9da-4159-b22d-75ff828596c7)
 
 
 
 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="[https://www.animatedimages.org/data/media/562/animated-line-image-0313.gif](https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif)" border="0" alt="animated-line-image-0313" /></a>
-
-
-</p>
-
-<p align="center">
-  <strong>Welcome to my GitHub profile!</strong><br>
-  I'm a dedicated full-time Penetration Tester specializing in Red Team operations with a focus on web security, malware forensics, OSINT, and CSIRT activities. Programming small projects is a passion of mine, and I enjoy creating tools and scripts that make cybersecurity tasks more efficient and effective.
-  But I am not a professional developer! 
-  <br><br>
-  Feel free to reach out to me for collaboration or any queries you might have. I'm always open to discussing new projects and opportunities. 
-  If you want a pentest, contact me via mail, I do not publish my workplace
-  <br><br>
-</p>
-<p align="center">
-  <a href="https://twitter.com/n3ll41" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%23A020F0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:n3ll4@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-%2300FFFF.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0313.gif" border="0" alt="animated-line-image-0313" /></a>
-<p align="center">
-  
-  <strong>More about me:</strong><br>
-Visit my linktree: https://linktr.ee/Nella_allami </p>
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N3ll4-01&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N3ll4-01&theme=radical" alt="GitHub Streak" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3ll4-01&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-</p>
-
-
-
-
-<p align="center" href="https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" /></p>
+<p align="center" href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" /></p>
 <p align="center">
 
 
@@ -79,14 +33,14 @@ Visit my linktree: https://linktr.ee/Nella_allami </p>
   <strong>More about me:</strong><br>
 Visit my linktree: https://linktr.ee/Nella_allami </p>
 
+### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=radical" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=N3ll4-01&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N3ll4-01&theme=radical" alt="GitHub Streak" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3ll4-01&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 </p>
-
 
