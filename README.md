@@ -18,10 +18,10 @@
 </p>
 <p align="center">
   <a href="https://twitter.com/kayte" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%23A020F0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-F0F0F0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="ethical.infos@proton.me">
-    <img src="https://img.shields.io/badge/Email-%2300FFFF.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-F0F0F0.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email">
   </a>
 </p>
 
