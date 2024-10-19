@@ -5,7 +5,7 @@
 
 
 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0313.gif" border="0" alt="animated-line-image-0313" /></a>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="[https://www.animatedimages.org/data/media/562/animated-line-image-0313.gif](https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif)" border="0" alt="animated-line-image-0313" /></a>
 
 
 </p>
