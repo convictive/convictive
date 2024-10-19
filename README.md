@@ -1,5 +1,9 @@
 
-![4ksgiuqaqj6a1](https://github.com/user-attachments/assets/8969299a-a9da-4159-b22d-75ff828596c7)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/convictive/convictive/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
