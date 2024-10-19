@@ -48,7 +48,8 @@ Visit oathnet:(https://oathnet.ru/) </p>
 
 <p clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </p>
 
 
