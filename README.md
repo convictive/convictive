@@ -39,3 +39,19 @@ Visit oathnet:(https://oathnet.ru/) </p>
   <img src="https://github-readme-stats.vercel.app/api?username=convictive&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=convictive&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </p>
+
+
+<p clear="both">
+
+<div align="center">
+  <img height="200" src="https://cdn.discordapp.com/attachments/1296841196412342346/1297242926287421502/149713e653295b43a22cb013f8b02397.gif?ex=6715371f&is=6713e59f&hm=e6fed6b05d9d6637b92a4467fc8be2b5d0475a249bf61a1b370d5cfdd8f425fb&"  />
+</p>
+
+
+
+
+
+
+
+
+
