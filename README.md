@@ -65,9 +65,6 @@ Visit oathnet:(https://oathnet.ru/) </p>
 <p clear="both">
 
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/convictive/convictive/output/snake.svg" alt="Snake animation" />
-</p>
 
 
 
